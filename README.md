@@ -1,22 +1,15 @@
-### Hey there 👋
+### <a href="https://github.com/OlgaGolovkina"><img src="https://img.icons8.com/clouds/100/000000/hot-chocolate-with-marshmallows.png" alt="hot-chocolate-with-marshmallows"/></a> Hey there 👋 folks! 
 
-<!--
-**OlgaGolovkina/OlgaGolovkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :octocat: I'm a Senior Software Engineer
+- 🐣 I’m currently working on smth extremely interesting =)
+- 📫 Let's get in touch: 
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.facebook.com/coddess"><img src="https://img.icons8.com/bubbles/100/000000/facebook-circled.png" alt="facebook"/></a>
+  <a href="https://www.instagram.com/september013"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://vk.com/id239398325"><img src="https://img.icons8.com/bubbles/100/000000/vk-com.png" alt="vk"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-  <a href="https://www.facebook.com/coddess"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.instagram.com/september013/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://vk.com/id239398325"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
+<p align="right">
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
 </p>
