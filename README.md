@@ -1,5 +1,7 @@
 ### Hey there 👋 folks!
 
+- 💻 I'm a Software Engineer
+- 🐣 I’m currently working on smth extremely interesting =)
 - 📫 Let's get in touch: 
 
 <!--
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://vk.com/id239398325"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
-  <a href="https://www.instagram.com/september013/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.facebook.com/coddess"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.instagram.com/september013/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://vk.com/id239398325"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
 </p>
