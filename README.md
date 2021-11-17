@@ -1,4 +1,4 @@
-### <a href="https://github.com/OlgaGolovkina"><img src="https://img.icons8.com/clouds/100/000000/hot-chocolate-with-marshmallows.png" alt="hot-chocolate-with-marshmallows"/></a> Hey there 👋 folks! 
+### <a href="https://github.com/OlgaGolovkina"><img src="https://img.icons8.com/clouds/75/000000/hot-chocolate-with-marshmallows.png" alt="hot-chocolate-with-marshmallows"/></a> Hey there 👋 folks! 
 
 - :octocat: I'm a Tech Lead & programming enthusiast
 - 🐣 I'm currently working on smth extremely interesting =)
