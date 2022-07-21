@@ -7,7 +7,7 @@
 <p align="left">
     <a href="https://www.instagram.com/september013/"><img src="https://img.icons8.com/office/70/instagram-new.png" alt="instagram"/></a>
     <a href="https://www.facebook.com/coddess/"><img src="https://img.icons8.com/doodle/80/facebook-new.png" alt="facebook"/></a>
-    <a href="https://line.me/ti/p/8A_bR9GVna/"><img src="https://img.icons8.com/doodle/80/line-me.png" alt="line"/></a>
+    <a href="https://line.me/ti/p/8A_bR9GVna"><img src="https://img.icons8.com/doodle/80/line-me.png" alt="line"/></a>
 </p>
 
 <p align="right">
