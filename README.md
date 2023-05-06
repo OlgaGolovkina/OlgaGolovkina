@@ -1,8 +1,9 @@
 ### <a href="https://github.com/OlgaGolovkina"><img src="https://img.icons8.com/clouds/75/000000/hot-chocolate-with-marshmallows.png" alt="hot-chocolate-with-marshmallows"/></a> Hey there 👋 folks! My name is Olga :)
 
-- :octocat: Tech Lead & Programming Enthusiast
-- 🐣 Currently working on smth extremely interesting 
-- 📫 Let's get in touch. My social accounts: 
+- :octocat: Software Enthusiast :nerd_face:
+- :seedling: Currently working on smth extremely interesting 
+- :sunny: I love spending time outdoors, staying active with sports
+- 🐣 constantly challenging myself to achieve new incredible goals
 
 <p align="left">
     <a href="https://www.instagram.com/september013/"><img src="https://img.icons8.com/office/70/instagram-new.png" alt="instagram"/></a>
